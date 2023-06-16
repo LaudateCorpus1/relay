@@ -18,7 +18,7 @@ fnv = "1.0"
 graphql-syntax = { path = "../graphql-syntax" }
 intern = { path = "../intern" }
 lazy_static = "1.0"
-ouroboros = "0.8"
+ouroboros = "0.16"
 schema-flatbuffer = { path = "../schema-flatbuffer" }
 strsim = "0.10.0"
 thiserror = "1.0.30"
